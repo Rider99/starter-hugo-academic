@@ -51,7 +51,7 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/file:///Users/yanyunrui/Desktop/apply/CV_Yunrui%20Yan%20.pdf
+#   link: uploads/https://maipdf.com/doc/d10316495676.maipdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
