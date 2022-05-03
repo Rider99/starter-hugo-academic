@@ -47,7 +47,7 @@ social:
  
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `page_sharer.toml`,
 # and uncomment the lines below.
  - icon: cv
    icon_pack: ai
