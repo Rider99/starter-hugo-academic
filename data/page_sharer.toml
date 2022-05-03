@@ -80,3 +80,11 @@
   icon_pack = "fab"
   icon = "tumblr"
   enable = false
+
+[[buttons]]
+  id = "cv"
+  url = "static/uploads/resume.pdf"
+  title = "cv"
+  icon_pack = "ai"
+  icon = "cv"
+  enable = false
