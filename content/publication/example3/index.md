@@ -1,18 +1,17 @@
 ---
-title: 'Ca2C MXene monolayer as a superior material for detection of toxic pnictogen hydrides'
+title: 'Highly Efficient Energy Harvest Via External Rotating Magnetic Field for Oil Based Nanofluid Direct Absorption Solar Collector'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Wei, Zhang
+  - Wang, Debing and Liang, Wenwen and Zheng, Zhiheng and Jia, Peiyu and Yan, Yunrui and Xie, Huaqing and Wang, Lingling and Yu, Wei
 
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 'Corresponding author'
+  - 'Corresponding author'
 
 date: '2019-11-04T00:00:00Z'
 doi: ''
@@ -27,10 +26,11 @@ publishDate: '2019-11-04T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Materials Chemistry and Physics*
-publication_short: In *Materials Chemistry and Physics*
+publication: In *Green Energy \& Environment*
+publication_short: In *Green Energy \& Environment*
 
-abstract: Carbide-nitride MXene two-dimensional materials have great potential to be used in the future electronic applications. However, determining the interaction between gas molecules and two-dimensional materials is an important step for designing novel gas sensors. Herein, we theoretically investigate the sensitivity of Ca2C MXene monolayer toward pnictogen hydrides (NH3, PH3, AsH3, and SbH3). We found that the toxic gas molecules adsorption with high adsorption energies have a considerable effect on the electronic properties of the Ca2C MXene layer. The molecular dynamics calculations at 400 K also verified the thermal stability of the gas/Ca2C systems. Our results might be helpful for future researches toward application of carbide-nitride MXene materials for detecting toxic gas molecules.
+abstract: Nanofluids based direct absorption solar collectors (DASCs) are considered as the important alternative for further improve the utilization of solar energy. However the low-quality energy and aggregation of nanoparticles obstructs their large-scale application. In this work, a new method of using magnetic nanofluids in DASCs is proposed. By this method, not only high-quality energy is got as well as the problems of blockage and corrosion in heat exchanger are well avoided. The result shows that the maximum temperature can reach 98 °C under 3 solar irradiations and the photothermal conversion efficiency can be further increased by 12.8% when the concentration is 500 ppm after adding an external rotating magnetic field. The highest viscosity of working fluid reduced by 21% when the concentration is 500 ppm at 95 °C after separating the Fe3O4@C nanoparticles from the nanofluids via magnetic separation technology. Meanwhile, the obtained pure base liquids with high temperature flow to heat exchanger, which also reduces the flow resistance in pipeline and avoids the problems such as blockage and corrosion in heat exchanger. This research promotes a new way for the efficient utilization of solar energy.
+
 # Summary. An optional shortened abstract.
 summary: 
 
