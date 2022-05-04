@@ -32,7 +32,7 @@ publication_short: In *Green Energy \& Environment*
 abstract: Nanofluids based direct absorption solar collectors (DASCs) are considered as the important alternative for further improve the utilization of solar energy. However the low-quality energy and aggregation of nanoparticles obstructs their large-scale application. In this work, a new method of using magnetic nanofluids in DASCs is proposed. By this method, not only high-quality energy is got as well as the problems of blockage and corrosion in heat exchanger are well avoided. The result shows that the maximum temperature can reach 98 °C under 3 solar irradiations and the photothermal conversion efficiency can be further increased by 12.8% when the concentration is 500 ppm after adding an external rotating magnetic field. The highest viscosity of working fluid reduced by 21% when the concentration is 500 ppm at 95 °C after separating the Fe3O4@C nanoparticles from the nanofluids via magnetic separation technology. Meanwhile, the obtained pure base liquids with high temperature flow to heat exchanger, which also reduces the flow resistance in pipeline and avoids the problems such as blockage and corrosion in heat exchanger. This research promotes a new way for the efficient utilization of solar energy.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags: []
 
