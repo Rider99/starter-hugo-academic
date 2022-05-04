@@ -48,7 +48,7 @@ experience:
         Research Project:
         * Resonance And Stability of Composite Micro/Nanoshell Via Deep Neural Network Trained by Adaptive Momentum-Based Approach
 
-  - title: Srudent
+  - title: Student
     company: Shanghai Polytechnic University  
     company_url: ''
     location: China
@@ -56,9 +56,47 @@ experience:
     date_end: '2021-04-16'
     description: |2-
         Bachelor Thesis:
-        * Resonance And Stability of Composite Micro/Nanoshell Via Deep Neural Network Trained by Adaptive Momentum-Based Approach
+        * Study of Thermal Conductivity of Fluorinated Graphene
+
+  - title: Research Assistant
+    company: Peking University  
+    company_url: ''
+    location: China
+    date_start: '2020-02-01'
+    date_end: '2021-01-11'
+    description: |2-
+        Research Project:
+        * Ca2C Mxene Monolayer as A Superior Material for Detection of Toxic Pnictogen Hydrides
+
+  - title: Student
+    company: Shanghai Polytechnic University  
+    company_url: ''
+    location: China
+    date_start: '2019-08-01'
+    date_end: '2020-06-16'
+    description: |2-
+        Research Project:
+        * Highly Efficient Energy Harvest Via External Rotating Magnetic Field for Oil Based Nanofluid Direct Absorption Solar Collector
+  
+  - title: Student
+    company: Shanghai Polytechnic University  
+    company_url: ''
+    location: China
+    date_start: '2019-01-15'
+    date_end: '2020-07-16'
+    description: |2-
+        National College Students’ Innovation and Entrepreneurship Training Program:
+        * Preparation of In2O3/Co3O4 Composite Material Based on IN-MOF Material and Research on Its Gas Sensitivity
+
+  - title: Research Assistant
+    company: Kunming Institute of Precious Metals
+    company_url: ''
+    location: China
+    date_start: '2018-05-01'
+    date_end: '2018-09-16'
+    description: Literature research about  Resonance And Stability of Composite Micro/Nanoshell Via Deep Neural Network Trained by Adaptive Momentum-Based Approach
 
 design:
-  columns: '3'
+  columns: '7'
 ---
 
