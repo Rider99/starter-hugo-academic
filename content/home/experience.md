@@ -29,8 +29,11 @@ experience:
     date_start: '2021-08-27'
     date_end: ''
     description: |2-
-     Exfoliation Of Hexagonal Boron Nitride Assisted with Covalent Organic Frameworks by Ball-Milling
-     Research of hBN-PVDF and Its Application in Flexible Electronic Devices Substrate
+     Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 
 
 
