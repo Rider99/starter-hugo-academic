@@ -1,5 +1,5 @@
 ---
-title: 'Study of Thermal Conductivity of Fluorinated Graphene'
+title: 'Resonance frequency and stability of composite micro/nanoshell via deep neural network trained by adaptive momentum-based approach'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,23 +13,25 @@ author_notes:
   - 'Corresponding author'
   - 'Corresponding author'
 
-date: '2022-3-04T00:00:00Z'
+date: '2022-01-21T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-3-04T00:00:00Z'
+publishDate: '2022-03-104T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Conference on Manufacturing Technology and New Materials*
-publication_short: In *International Conference on Manufacturing Technology and New Materials*
+publication: In *Geomechanics and Engineering*
+publication_short: In *Geomechanics and Engineering*
 
-abstract: With the rapid development of technology in recent years and the advent of the 5G era, the heat dissipation of electronic devices has received great attention. However, the high intrinsic conductivity of ordinary graphene materials limits their potential applications in electronic packaging materials due to poor thermal management. The results show that fluorinated graphene has excellent heat resistance, corrosion resistance, and strong wear resistance. It can also play a certain role in lubrication and be commonly used in high-temperature coatings, wear-resistant lubrication coatings, and corrosion-resistant coatings since it is not easy to react with other substances. Fluorinated graphene is very stable and antioxidant under high temperature due to the strong electronegativity of fluorine. Therefore, in this paper, a highly compressible, thermally conductive, and electrically insulating fluorinated graphene was developed by hydrothermal method assisted by hydrofluoric acid, and the effect on the thermal conductivity of fluorinated graphene was investigated by varying the fluorine-to-carbon ratio (F/C) via adjusting the hydrofluoric acid content. The structure of fluorinated graphene was characterized by SEM and XRD to prove the porous structure which is a customized interconnected graphene network with adjustable fluorine coverage. The prepared fluorinated graphene has good insulating properties with a minimum conductivity of 4×10-7 S cm-1 and a thermal conductivity of 1.254 W m-1 K-1 Meanwhile, because of the porous structure of graphene fluoride, we prepared epoxy resin/fluorinated graphene nanocomposites by vacuum-assisted infiltration process with epoxy resin as the filler material. This material and fluorinated graphene showed outstanding thermal performance during typical cooling process. The conclusions indicate that graphene fluoride and epoxy resin/fluorinated graphene nanocomposites have a promising future in electronic packaging.
+abstract: In the present study, the effects of thermal loading on the buckling and resonance frequency of graphene platelets (GPL) reinforced nano-composites are examined. Functionally graded (FG) material properties are considered in thickness direction for the thermal responses of the composite. The equivalent material properties are obtained using Halphin-Tsai nano-mechanical model for composite layers. Moreover, the effects of nano-scale sizes are taken into account, employing functionally modified couple stress (FMCS) parameter. In this regard, for the first time, it is demonstrated that at certain values of GPL weight fraction, thermal buckling occurs. In obtaining results of vibrational behavior, both analytical solution and deep neural network (DNN) methods are used. The DNN method needs low computational costs to predict the resonance behavior. A comprehensive parametric study is conducted to indicate the effects of several geometrical, material, and loading conditions on the vibrational and buckling behavior of cylindrical shell structures made of GPL-nanocomposites. It is shown that the effect of temperature change on the occurrence of buckling is vital while it has a negligible impact on the resonance frequency of the structure. Moreover, the size-dependency of the results is demonstrated, and it cannot be neglected in nano-scales.
+
+
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -55,12 +57,18 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ''
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
+projects:
+  - example
 
 ---
 
