@@ -38,14 +38,13 @@ experience:
 
 
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Assistant
+    company: Kunming Institute of Precious Metals
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: China
+    date_start: '2021-02-01''2018-05-02'
+    date_end: '2021-08-16''2018-09-16'
+    description: Research Project:Resonance And Stability of Composite Micro/Nanoshell Via Deep Neural Network Trained by Adaptive Momentum-Based Approach
 
 design:
   columns: '2'
