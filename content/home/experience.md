@@ -94,7 +94,7 @@ experience:
     location: China
     date_start: '2018-05-01'
     date_end: '2018-09-16'
-    description: Literature research about  Resonance And Stability of Composite Micro/Nanoshell Via Deep Neural Network Trained by Adaptive Momentum-Based Approach
+    description: Literature research about  'Resonance And Stability of Composite Micro/Nanoshell Via Deep Neural Network Trained by Adaptive Momentum-Based Approach'
 
 design:
   columns: '7'
