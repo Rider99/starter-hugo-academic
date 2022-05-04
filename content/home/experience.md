@@ -25,15 +25,14 @@ experience:
   - title: Student
     company: Rice University
     company_url: ''
-    location: California
-    date_start: '2021-01-01'
+    location: Houston
+    date_start: '2021-08-27'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    Exfoliation Of Hexagonal Boron Nitride Assisted with Covalent Organic Frameworks by Ball-Milling
+    Research of hBN-PVDF and Its Application in Flexible Electronic Devices Substrate
+
+
 
   - title: Professor of Semiconductor Physics
     company: University X
