@@ -29,7 +29,6 @@ experience:
     date_end: ''
     description: 1. Exfoliation Of Hexagonal Boron Nitride Assisted with Covalent Organic Frameworks by Ball-Milling 
     2. Research of hBN-PVDF and Its Application in Flexible Electronic Devices Substrate
-        
   - title: Research Assistant
     company: Kunming Institute of Precious Metals
     location: China
