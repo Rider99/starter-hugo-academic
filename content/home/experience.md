@@ -48,5 +48,5 @@ experience:
     description: Highly Efficient Energy Harvest Via External Rotating Magnetic Field for Oil Based Nanofluid Direct Absorption Solar Collector
 
 design:
-  columns: '2'
+  columns: '3'
 ---
