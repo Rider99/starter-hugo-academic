@@ -29,22 +29,9 @@ experience:
     date_end: ''
     description: 1. Exfoliation Of Hexagonal Boron Nitride Assisted with Covalent Organic Frameworks by Ball-Milling 
     2. Research of hBN-PVDF and Its Application in Flexible Electronic Devices Substrate
-  - title: Research Assistant
-    company: Kunming Institute of Precious Metals
-    location: China
-    date_start: '2018-05-01'
-    date_end: '2021-08-10' 
-    description: Resonance And Stability of Composite Micro/Nanoshell Via Deep Neural Network Trained by Adaptive Momentum-Based Approach
 
-
-
-  - title: Research Assistant
-    company: Shanghai Polytechnic University
-    location: China
-    date_start: '2019-08-01'
-    date_end: '2020-06-03'
-    description: Highly Efficient Energy Harvest Via External Rotating Magnetic Field for Oil Based Nanofluid Direct Absorption Solar Collector
+  
 
 design:
-  columns: '3'
+  columns: '1'
 ---
