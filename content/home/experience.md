@@ -24,7 +24,6 @@ date_format: Jan 2006
 experience:
   - title: Student
     company: Rice University
-    company_url: ''
     location: Houston
     date_start: '2021-08-27'
     date_end: ''
@@ -35,7 +34,6 @@ experience:
 
   - title: Research Assistant
     company: Kunming Institute of Precious Metals
-    company_url: ''
     location: China
     date_start: '2021-02-01 and 2018-05-01 '
     date_end: '2021-08-10 and 2018-09-01'
@@ -45,7 +43,6 @@ experience:
 
   - title: Research Assistant
     company: Shanghai Polytechnic University
-    company_url: ''
     location: China
     date_start: '2019-08-01'
     date_end: '2020-06-03'
