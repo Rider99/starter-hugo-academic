@@ -35,8 +35,8 @@ experience:
   - title: Research Assistant
     company: Kunming Institute of Precious Metals
     location: China
-    date_start: '2021-02-01 and 2018-05-01 '
-    date_end: '2021-08-10 and 2018-09-01'
+    date_start: '2021-02-01' '2018-05-01'
+    date_end: '2021-08-10' '2018-09-01'
     description: Resonance And Stability of Composite Micro/Nanoshell Via Deep Neural Network Trained by Adaptive Momentum-Based Approach
 
 
