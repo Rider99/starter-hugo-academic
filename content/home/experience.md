@@ -44,11 +44,19 @@ experience:
     location: China
     date_start: '2021-02-01'
     date_end: '2021-08-16'
-    date_start: '2018-05-02'
-    date_end: '2018-09-16'
     description: Research Project:Resonance And Stability of Composite Micro/Nanoshell Via Deep Neural Network Trained by Adaptive Momentum-Based Approach
 
+  - title: Srudent
+    company: Shanghai Polytechnic University  
+    company_url: ''
+    location: China
+    date_start: '2021-02-01'
+    date_end: '2021-08-16'
+    description: |2-
+        Bachelor Thesis:
+        * Resonance And Stability of Composite Micro/Nanoshell Via Deep Neural Network Trained by Adaptive Momentum-Based Approach
+
 design:
-  columns: '2'
+  columns: '3'
 ---
 
