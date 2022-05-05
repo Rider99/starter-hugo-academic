@@ -13,11 +13,11 @@ author_notes:
   - 'Corresponding author'
   - 'Corresponding author'
 
-date: '2022-03-04T00:00:00Z'
+date: '2022-04-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-03-04T00:00:00Z'
+publishDate: '2022-04-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,7 +27,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *International Conference on Manufacturing Technology and New Materials*
-publication_short: In *International Conference on Manufacturing Technology and New Materials*
+publication_short: In *MTNT*
 
 abstract: With the rapid development of technology in recent years and the advent of the 5G era, the heat dissipation of electronic devices has received great attention. However, the high intrinsic conductivity of ordinary graphene materials limits their potential applications in electronic packaging materials due to poor thermal management. The results show that fluorinated graphene has excellent heat resistance, corrosion resistance, and strong wear resistance. It can also play a certain role in lubrication and be commonly used in high-temperature coatings, wear-resistant lubrication coatings, and corrosion-resistant coatings since it is not easy to react with other substances. Fluorinated graphene is very stable and antioxidant under high temperature due to the strong electronegativity of fluorine. Therefore, in this paper, a highly compressible, thermally conductive, and electrically insulating fluorinated graphene was developed by hydrothermal method assisted by hydrofluoric acid, and the effect on the thermal conductivity of fluorinated graphene was investigated by varying the fluorine-to-carbon ratio (F/C) via adjusting the hydrofluoric acid content. The structure of fluorinated graphene was characterized by SEM and XRD to prove the porous structure which is a customized interconnected graphene network with adjustable fluorine coverage. The prepared fluorinated graphene has good insulating properties with a minimum conductivity of 4×10-7 S cm-1 and a thermal conductivity of 1.254 W m-1 K-1 Meanwhile, because of the porous structure of graphene fluoride, we prepared epoxy resin/fluorinated graphene nanocomposites by vacuum-assisted infiltration process with epoxy resin as the filler material. This material and fluorinated graphene showed outstanding thermal performance during typical cooling process. The conclusions indicate that graphene fluoride and epoxy resin/fluorinated graphene nanocomposites have a promising future in electronic packaging.
 
